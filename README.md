@@ -78,16 +78,22 @@
 ---
 
 <!-- ANIMATED FOOTER -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20&pause=1000&color=00FCA8&width=450&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B;Happy+coding+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+  <!-- Typing text animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FCA8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;I+craft+solutions+with+code,+one+line+at+a+time.;Let%E2%80%99s+build+something+extraordinary+together.+" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" alt="Thanks GIF" />
-</p>
+  <!-- Spacer -->
+  <br><br>
 
-<p align="center">
-  <b>✨ “Coding is my art, GitHub is my gallery.” ✨</b><br/>
-  🚀 Let’s innovate the future together.
-</p>
+  <!-- New Developer GIF -->
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" alt="Thanks GIF" />
+  <!-- Spacer -->
+  <br><br>
+
+  <!-- Message -->
+  <p><strong>🌟 <em>"I don't just write code, I build dreams into digital reality."</em> 🌟</strong></p>
+  <p>📌 Whether you're here to collaborate, learn, or get inspired — welcome to my tech space.</p>
+  <p>⚡ Let’s make a difference, one repo at a time!</p>
+
+</div>
